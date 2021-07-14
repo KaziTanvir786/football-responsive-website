@@ -331,8 +331,8 @@ button:hover{
         display: flex;
     }
     #left-half-nav ul li{
-        margin: 3px;
-        padding: 3px;
+        margin: 5px;
+        padding: 0px;
     }
     #top-banner{
         width: 100%;
