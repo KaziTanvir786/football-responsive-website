@@ -327,12 +327,25 @@ button:hover{
         padding-bottom: 5px;
     }
     #left-half-nav ul{
+        padding-left: 0%;
         list-style: none;
         display: flex;
     }
     #left-half-nav ul li{
-        margin: 5px;
-        padding: 0px;
+        margin: 1.5%;
+    }
+    #left-half-nav{
+        padding: 0%;
+        margin: 0%;
+        width: 65%;
+    }
+    #right-half-nav{
+        width: 35%;
+        padding: 0;
+        justify-content: center;
+    }
+    button{
+        margin: 0;
     }
     #top-banner{
         width: 100%;
