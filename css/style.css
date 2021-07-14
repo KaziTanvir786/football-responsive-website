@@ -332,7 +332,9 @@ button:hover{
         display: flex;
     }
     #left-half-nav ul li{
-        margin: 1.5%;
+        margin: 10px;
+        padding-left: 2.5px;
+        padding-right: 2.5px;
     }
     #left-half-nav{
         padding: 0%;
